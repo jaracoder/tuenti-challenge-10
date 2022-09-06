@@ -21,7 +21,5 @@ Repositorio con las soluciones en C# de los problemas planteados en el concurso 
 - Challenge 18 - Matters with Formatters
 - Challenge 19 - Better Farm Systems
 - Challenge 20 - Fortified Security
-
-
 ---
 _escrito con ❤️ por [jaracoder](https://github.com/jaracoder)._
